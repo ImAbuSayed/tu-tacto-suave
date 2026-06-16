@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-tacto-suave/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Tu tacto suave](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-tacto-suave/) |
+| **Get License** | [Music Rights & Licensing for Tu tacto suave](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-tacto-suave/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tu tacto suave me quema en la oscuridad,
+> bailando lento en medio de la ciudad,
+> tus ojos dicen que quieres la intimidad,
+> no te me escapes, que esta noche es de verdad.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
