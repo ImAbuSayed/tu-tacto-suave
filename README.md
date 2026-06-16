@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-tacto-suave/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Tu tacto suave](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-tacto-suave/) |
+| **Get License** | [Secure Licensing Rights for Tu tacto suave](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-tacto-suave/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `41a0b4a73ac24a77ebde5fa353fe13d808258b3c45ae4c17be8f4a9a09939fff` |
 | **Timestamp** | June 17, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
